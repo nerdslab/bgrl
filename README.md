@@ -110,10 +110,10 @@ Note that our reported score is based on an average over multiple runs.
  If you find the code useful for your research, please consider citing our work:
  ```
  @misc{thakoor2021bootstrapped,
-       title={Bootstrapped Representation Learning on Graphs}, 
-       author={Shantanu Thakoor and Corentin Tallec and Mohammad Gheshlaghi Azar and Rémi Munos and Petar Veličković and Michal Valko},
-       year={2021},
-       eprint={2102.06514},
-       archivePrefix={arXiv},
-       primaryClass={cs.LG}}
+      title={Large-Scale Representation Learning on Graphs via Bootstrapping}, 
+      author={Shantanu Thakoor and Corentin Tallec and Mohammad Gheshlaghi Azar and Mehdi Azabou and Eva L. Dyer and Rémi Munos and Petar Veličković and Michal Valko},
+      year={2021},
+      eprint={2102.06514},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}}
  ```
