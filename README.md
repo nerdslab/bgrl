@@ -2,8 +2,7 @@
 
 ![Overview of BGRL](bgrl_arch.png)
 
-This is the PyTorch implementation of BGRL 
-in 'Large-Scale Representation Learning on Graphs via Bootstrapping' (ICLR 2022).
+This is the official PyTorch implementation of BGRL in 'Large-Scale Representation Learning on Graphs via Bootstrapping' (ICLR 2022).
 
 The main scripts are `train_transductive.py` and `train_ppi.py` 
 used for training on the transductive task datasets
@@ -109,11 +108,9 @@ Note that our reported score is based on an average over multiple runs.
 
  If you find the code useful for your research, please consider citing our work:
  ```
- @misc{thakoor2021bootstrapped,
+ @misc{thakoor2022large,
       title={Large-Scale Representation Learning on Graphs via Bootstrapping}, 
       author={Shantanu Thakoor and Corentin Tallec and Mohammad Gheshlaghi Azar and Mehdi Azabou and Eva L. Dyer and Rémi Munos and Petar Veličković and Michal Valko},
-      year={2021},
-      eprint={2102.06514},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}}
+      journal={International Conference on Learning Representations (ICLR)},
+      year={2022},
  ```
