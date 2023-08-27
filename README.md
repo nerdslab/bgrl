@@ -108,9 +108,10 @@ Note that our reported score is based on an average over multiple runs.
 
  If you find the code useful for your research, please consider citing our work:
  ```
- @misc{thakoor2022large,
-      title={Large-Scale Representation Learning on Graphs via Bootstrapping}, 
-      author={Shantanu Thakoor and Corentin Tallec and Mohammad Gheshlaghi Azar and Mehdi Azabou and Eva L. Dyer and Rémi Munos and Petar Veličković and Michal Valko},
-      journal={International Conference on Learning Representations (ICLR)},
-      year={2022},
+@article{thakoor2022large,
+  title={Large-scale representation learning on graphs via bootstrapping},
+  author={Thakoor, Shantanu and Tallec, Corentin and Azar, Mohammad Gheshlaghi and Azabou, Mehdi and Dyer, Eva L and Munos, Remi and Veli{\v{c}}kovi{\'c}, Petar and Valko, Michal},
+  journal={International Conference on Learning Representations (ICLR)},
+  year={2022}
+}
  ```
